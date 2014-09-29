@@ -10,16 +10,19 @@ include('partials/header.php'); ?>
 							<h1>Shoe Designers</h1>
 							<div class="onehalf floatleft">
 								<ul>
+									<li>Aerin</li>
 									<li>Amalfi</li>
 									<li>Aquatalia</li>
 									<li>Arche</li>
+									<li>Ashe</li>
 									<li>B Brian Atwood</li>
 									<li>Bettye Muller</li>
 									<li>Claudia Ciuti</li>
-									<li>Cole Haan</li>
 									<li>Donald J Pliner</li>
+									<li>DVF</li>
 									<li>Eric Michael</li>
 									<li>Ferragamo</li>
+									<li>The Flexx</li>
 									<li>French Soles</li>
 									<li>Frye</li>
 									<li>Giuseppe Zanotti</li>
@@ -27,16 +30,17 @@ include('partials/header.php'); ?>
 									<li>J Renee</li>
 									<li>Jack Rogers</li>
 									<li>Johnston & Murphy</li>
-									<li>Kate Spade</li>
-									<li>Lucky</li>
-									<li>Merrell</li>
-									<li>Nina</li>
 								</ul>
 							</div>
 							<div class="onehalf floatleft">
 								<ul>
+									<li>Kate Spade</li>
+									<li>LK Bennett</li>
+									<li>Merrell</li>
+									<li>Nina</li>
 									<li>Pas de Rouge</li>
 									<li>Rachel Zoe</li>
+									<li>Ramon Tenza</li>
 									<li>Rebecca Minkoff</li>
 									<li>Salpy</li>
 									<li>Sam Edelman</li>
@@ -58,21 +62,21 @@ include('partials/header.php'); ?>
 						<div class="gutter">
 							<h1>Accessory Designers</h1>
 							<ul>
+								<li>B-low the Belt belts and handbags</li>
 								<li>Brighton jewelry<br>
 								  <span>only in Lewisburg</span></li>
 								<li>butter LONDON nail polish</li>
 								<li>Dr. Brandt skin care<br>
 								  <span>only in Charleston</span></li>
+								<li>Donni Charm scarves</li>
 								<li>Julie Vos jewelry</li>
 								<li>Kate Spade jewelry</li>
-								<li>Leatherock belts</li>
-								<li>Lodis wallets and belts</li>
 								<li>Lollia Skincare<br>
 									<span>only in Charleston, Roanoke, and Lewisburg</span></li>
-								<li>Michael Kors watches</li>
+								<li>Lulu Dk tattoos</li>
+								<li>Maya Brenner jewelry</li>
 								<li>Philosophy skin care<br>
 								  <span>only in Lewisburg</span></li>
-								<li>Ray Ban</li>
 								<li>Shawlsmith</li>
 								<li>Smashbox and Kevyn Aucoin cosmetics</li>
 								<li>Thad Cline jewelry</li>
@@ -85,18 +89,17 @@ include('partials/header.php'); ?>
 						<div class="gutter">
 							<h1>Handbag Designers</h1>
 							<ul>
-								<li>Brighton (<em>Lewisburg and <br>White Sulphur Springs</em>)</li>
+								<li>Brighton (<em>only in Lewisburg</em>)</li>
 								<li>Botkier</li>
 								<li>Eric Javits</li>
 								<li>Foley and Corrina</li>
-								<li>Franchi</li>
 								<li>Halston Heritage</li>
 								<li>Kate Spade handbags</li>
-								<li>Kooba</li>
 								<li>Longchamp</li>
 								<li>Mary Frances</li>
 								<li>Orla Kiely</li>
 								<li>Rebecca Minkoff</li>
+								<li>Sondra Roberts</li>
 								<li>Tory Burch</li>
 							</ul>
 						</div>
@@ -106,18 +109,20 @@ include('partials/header.php'); ?>
 							<h1>Sunglass Designers</h1>
 							<ul>
 								<li>Brighton</li>
-								<li>Burberry</li>
+								<li>Illesteva</li>
+								<li>Ray Ban</li>
 								<li>Tory Burch</li>
 							</ul>
 							<h1>Men's Shoe Designers</h1>
 							<ul>
-								<li>Too Boot</li>
-								<li>Donald J Pliner</li>
 								<li>Allen Edmonds</li>
+								<li>Donald J Pliner</li>
+								<li>Frye</li>
+								<li>Cole Haan</li>
+								<li>Merrell</li>
 								<li>Sperry Topsider</li>
+								<li>Too Boot New York</li>
 								<li>Ugg</li>
-								<li>Frye Cole</li>
-								<li>Haan</li>
 							</ul>
 						</div>
 					</div>
