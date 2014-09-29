@@ -6,9 +6,10 @@
 	<meta charset="utf-8">
 	<title><?php echo $title; ?></title>
 	<link rel="stylesheet" href="style.css" title="style" type="text/css" media="screen" charset="utf-8">
-	<script src="http://code.jquery.com/jquery-1.11.0.min.js" charset="utf-8"></script>
+	<script src="//code.jquery.com/jquery-latest.min.js"></script>
 	<script src="/assets/js/jquery.cycle.js"></script>
 	<script src="/assets/js/script.js"></script>
+	<script src="/assets/js/unslider.min.js"></script>
 </head>
 <body <?php if($_SERVER['PHP_SELF'] == '/index.php'){echo 'class="home"';}?>>
 <?php if($_SERVER['PHP_SELF'] == '/index.php'){ ?>
